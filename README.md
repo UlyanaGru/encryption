@@ -1,6 +1,6 @@
 ## encryption
 
-<crypto>
+`crypto`
 
 ### Условие
 
