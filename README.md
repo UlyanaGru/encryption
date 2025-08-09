@@ -19,5 +19,5 @@
 
 ### Варианты решения
 
-[x] Python
-[ ] Java
+- [x] [Python](https://github.com/UlyanaGru/encryption/blob/master/encryption.py)
+- [ ] [Java](https://github.com/UlyanaGru/encryption/blob/master/encryption.java)
